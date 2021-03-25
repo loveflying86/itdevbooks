@@ -26,7 +26,7 @@
 | [软件测试](https://github.com/itdevbooks/pdf#软件测试)   |  [重构优化](https://github.com/itdevbooks/pdf#重构优化)  |[第二版-面试题](https://github.com/itdevbooks/pdf#新增第二版面试题)   | 每天都有更新  | |   |
 
 
-## 新增：7701页《第3版：互联网大厂面试题》
+## [新增：7701页《第3版：互联网大厂面试题》](https://mp.weixin.qq.com/s/YM7ul3jwM2rXL5iOM6LeJQ)
 
 
 第三版：Android 35 道.pdf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1i-OyG3clZzO_wziVzbTchg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：re9z
