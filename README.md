@@ -23,9 +23,8 @@
 | [软件测试](https://github.com/itdevbooks/pdf#软件测试)   |  [重构优化](https://github.com/itdevbooks/pdf#重构优化)  |[第三版-面试题](https://mp.weixin.qq.com/s/YM7ul3jwM2rXL5iOM6LeJQ)   | 每天都有更新  | |   |
 
 
-## [新增：最新 7701 页 PDF 《第3版：互联网大厂面试题》](https://mp.weixin.qq.com/s/YM7ul3jwM2rXL5iOM6LeJQ)
-## [新增：最新 7701 页 PDF 《第3版：互联网大厂面试题》](https://mp.weixin.qq.com/s/YM7ul3jwM2rXL5iOM6LeJQ)
-## [新增：最新 7701 页 PDF 《第3版：互联网大厂面试题》](https://mp.weixin.qq.com/s/YM7ul3jwM2rXL5iOM6LeJQ)
+## 新增：[高清172份，累计 7701 页大厂面试题 PDF](https://github.com/souyunku/DevBooks/blob/master/docs/index.md)
+## 新增：[高清172份，累计 7701 页大厂面试题 PDF](https://github.com/souyunku/DevBooks/blob/master/docs/index.md)
 
 ## C 语言
 
